@@ -45,6 +45,7 @@ ApplicationWindow {
         Image {
             id: minimize
             width: parent.height /2
+            height: 2.2
             anchors.bottom: exit.bottom
             anchors.bottomMargin: 0
             source: "./icons/Minimize.png"

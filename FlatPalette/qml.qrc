@@ -4,5 +4,8 @@
         <file>components/FlatWindow.qml</file>
         <file>components/icons/Close.png</file>
         <file>components/icons/Minimize.png</file>
+        <file>components/Button.qml</file>
+        <file>components/PaperRipple.qml</file>
+        <file>iconx.ico</file>
     </qresource>
 </RCC>
